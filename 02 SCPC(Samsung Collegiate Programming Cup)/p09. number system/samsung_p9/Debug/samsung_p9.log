@@ -1,0 +1,4 @@
+﻿  p9.cpp
+c:\users\kkyeo\documents\visual studio 2017\projects\samsung_p9\samsung_p9\p9.cpp(35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  samsung_p9.vcxproj -> C:\Users\kkyeo\documents\visual studio 2017\Projects\samsung_p9\Debug\samsung_p9.exe
+  samsung_p9.vcxproj -> C:\Users\kkyeo\documents\visual studio 2017\Projects\samsung_p9\Debug\samsung_p9.pdb (Partial PDB)
