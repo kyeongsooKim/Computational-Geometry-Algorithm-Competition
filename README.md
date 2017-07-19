@@ -16,3 +16,9 @@ this repository is for practicing academic algorithms and testing self-developed
 
 04 Leetcode :
 	It's for practicing algorithm questions in website "Leetcode." All solutions in this file is my personal solutions. (C++ most of it)
+	
+	
+05 Machine-Learning (using Python)
+	This file is for my personal research of algorithms which can be used in recommendation system or machine-learning. I used python.
+	some of them includes well-known algorithms which is not made by me, and I mentioned them in file in that case.
+	some 
