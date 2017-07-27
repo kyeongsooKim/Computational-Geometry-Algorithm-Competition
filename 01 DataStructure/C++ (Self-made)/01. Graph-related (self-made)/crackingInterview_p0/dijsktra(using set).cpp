@@ -1,4 +1,4 @@
-
+/*
 // Program to find Dijkstra's shortest path using set in STL
 
 #include <iostream>
@@ -50,21 +50,16 @@ void Graph::addEdge(int u, int v, int w)
 // Prints shortest paths from src to all other vertices
 void Graph::shortestPath(int src)
 {
-	// Create a set to store vertices that are being
-	// prerocessed
+
 	set< pair<int, int> > setds;
 
-	// Create a vector for distances and initialize all
-	// distances as infinite (INF)
 	vector<int> dist(V, INF);
 
-	// Insert source itself in Set and initialize its
-	// distance as 0.
+
 	setds.insert(make_pair(0, src));
 	dist[src] = 0;
 
-	/* Looping till all shortest distance are finalized
-	then setds will become empty */
+
 	while (!setds.empty())
 	{
 		// The first vertex in Set is the minimum distance
@@ -90,12 +85,7 @@ void Graph::shortestPath(int src)
 			//  If there is shorter path to v through u.
 			if (dist[v] > dist[u] + weight)
 			{
-				/*  If distance of v is not INF then it must be in
-				our set, so removing it and inserting again
-				with updated less distance.
-				Note : We extract only those vertices from Set
-				for which distance is finalized. So for them,
-				we would never reach here.  */
+				
 				if (dist[v] != INF)
 					setds.erase(setds.find(make_pair(dist[v], v)));
 
@@ -139,3 +129,5 @@ int main()
 
 	return 0;
 }
+
+*/

@@ -1,4 +1,6 @@
 /*
+
+
 // Program to find Dijkstra's shortest path using priority_queue in STL
 #include <iostream>
 #include <list>
@@ -10,17 +12,13 @@
 using namespace std;
 #define INF 0x3f3f3f3f
 
-// iPair ==>  Integer Pair
 typedef pair<int, int> iPair;
 
-// This class represents a directed graph using
-// adjacency list representation
 class Graph
 {
 	int V;    // No. of vertices
 
-			  // In a weighted graph, we need to store vertex
-			  // and weight pair for every edge
+	// In a weighted graph, we need to store vertex and weight pair for every edge
 	list< iPair > *adj;
 
 public:

@@ -142,6 +142,8 @@
     <ClCompile Include="dijsktra(using set).cpp" />
     <ClCompile Include="dijsktra.cpp" />
     <ClCompile Include="graphTraverse.cpp" />
+    <ClCompile Include="Kruskal%27s MST.cpp" />
+    <ClCompile Include="prim%27s MST.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

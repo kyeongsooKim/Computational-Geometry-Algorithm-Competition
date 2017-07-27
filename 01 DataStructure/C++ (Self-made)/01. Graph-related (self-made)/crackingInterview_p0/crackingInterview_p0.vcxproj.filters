@@ -29,5 +29,11 @@
     <ClCompile Include="dijsktra(using set).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Kruskal%27s MST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prim%27s MST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
