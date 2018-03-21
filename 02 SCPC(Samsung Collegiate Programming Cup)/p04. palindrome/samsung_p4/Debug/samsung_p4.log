@@ -1,7 +1,0 @@
-﻿  p4.cpp
-c:\users\kkyeo\documents\visual studio 2017\projects\samsung_p4\samsung_p4\p4.cpp(17): warning C4018: '<': signed/unsigned mismatch
-c:\users\kkyeo\documents\visual studio 2017\projects\samsung_p4\samsung_p4\p4.cpp(19): warning C4018: '<': signed/unsigned mismatch
-c:\users\kkyeo\documents\visual studio 2017\projects\samsung_p4\samsung_p4\p4.cpp(25): warning C4018: '<': signed/unsigned mismatch
-c:\users\kkyeo\documents\visual studio 2017\projects\samsung_p4\samsung_p4\p4.cpp(87): warning C4101: 'e': unreferenced local variable
-  samsung_p4.vcxproj -> C:\Users\kkyeo\Documents\Visual Studio 2017\Projects\samsung_p4\Debug\samsung_p4.exe
-  samsung_p4.vcxproj -> C:\Users\kkyeo\Documents\Visual Studio 2017\Projects\samsung_p4\Debug\samsung_p4.pdb (Partial PDB)
