@@ -1,0 +1,15 @@
+2
+7
+E 0 T 0 E E 0
+0 B B 0 B 0 0
+E B E 0 B T E
+B B 0 T B 0 E
+E T E 0 B 0 0
+0 E 0 E B 0 T
+0 0 B B B B E
+5
+E 0 T 0 E
+0 B B 0 B
+E B E 0 B
+B B 0 T B
+E T E 0 B

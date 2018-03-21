@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kkyeo\desktop\coding\algorithms-research\03 hackerrank\hackerrank_algorithms_graphtheory_journeytothemoon\main.cpp(220): warning C4244: 'argument': conversion from 'll' to 'int', possible loss of data
+  HackerRank_Algorithms_GraphTheory_JourneyToTheMoon.vcxproj -> C:\Users\kkyeo\Desktop\Coding\algorithms-research\03 HackerRank\HackerRank_Algorithms_GraphTheory_JourneyToTheMoon\x64\Debug\HackerRank_Algorithms_GraphTheory_JourneyToTheMoon.exe
+  HackerRank_Algorithms_GraphTheory_JourneyToTheMoon.vcxproj -> C:\Users\kkyeo\Desktop\Coding\algorithms-research\03 HackerRank\HackerRank_Algorithms_GraphTheory_JourneyToTheMoon\x64\Debug\HackerRank_Algorithms_GraphTheory_JourneyToTheMoon.pdb (Partial PDB)

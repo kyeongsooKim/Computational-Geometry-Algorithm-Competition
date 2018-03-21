@@ -1,0 +1,12 @@
+﻿  Solution2.cpp
+c:\users\kkyeo\desktop\coding\algorithms-research\03 hackerrank\hackerrank_algorithms_npcomplete_walkingapproxlongestp\solution2.cpp(124): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\kkyeo\desktop\coding\algorithms-research\03 hackerrank\hackerrank_algorithms_npcomplete_walkingapproxlongestp\solution2.cpp(125): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\kkyeo\desktop\coding\algorithms-research\03 hackerrank\hackerrank_algorithms_npcomplete_walkingapproxlongestp\solution2.cpp(130): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\kkyeo\desktop\coding\algorithms-research\03 hackerrank\hackerrank_algorithms_npcomplete_walkingapproxlongestp\solution2.cpp(131): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\kkyeo\desktop\coding\algorithms-research\03 hackerrank\hackerrank_algorithms_npcomplete_walkingapproxlongestp\solution2.cpp(114): warning C4717: 'dfs': recursive on all control paths, function will cause runtime stack overflow
+  HackerRank_Algorithms_NPComplete_WalkingApproxLongestP.vcxproj -> C:\Users\kkyeo\Desktop\Coding\algorithms-research\03 HackerRank\HackerRank_Algorithms_NPComplete_WalkingApproxLongestP\x64\Debug\HackerRank_Algorithms_NPComplete_WalkingApproxLongestP.exe
+  HackerRank_Algorithms_NPComplete_WalkingApproxLongestP.vcxproj -> C:\Users\kkyeo\Desktop\Coding\algorithms-research\03 HackerRank\HackerRank_Algorithms_NPComplete_WalkingApproxLongestP\x64\Debug\HackerRank_Algorithms_NPComplete_WalkingApproxLongestP.pdb (Partial PDB)
