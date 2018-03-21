@@ -1,4 +1,0 @@
-﻿  main.c
-c:\users\kkyeo\desktop\coding\algorithms-research\01 datastructure\c++ (self-made)\doubly linked list\consoleapplication1\main.c(94): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'node'
-  ConsoleApplication1.vcxproj -> C:\Users\kkyeo\Desktop\Coding\algorithms-research\01 DataStructure\C++ (Self-made)\Doubly Linked List\ConsoleApplication1\Debug\ConsoleApplication1.exe
-  ConsoleApplication1.vcxproj -> C:\Users\kkyeo\Desktop\Coding\algorithms-research\01 DataStructure\C++ (Self-made)\Doubly Linked List\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)

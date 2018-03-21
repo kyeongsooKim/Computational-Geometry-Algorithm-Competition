@@ -1,8 +1,0 @@
-﻿  p12.cpp
-c:\users\kkyeo\desktop\coding\algorithms-research\02 scpc(samsung collegiate programming cup)\p12. two-dimensional array handling\samsung_p12\p12.cpp(139): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: see declaration of 'strtok'
-c:\users\kkyeo\desktop\coding\algorithms-research\02 scpc(samsung collegiate programming cup)\p12. two-dimensional array handling\samsung_p12\p12.cpp(142): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: see declaration of 'strtok'
-c:\users\kkyeo\desktop\coding\algorithms-research\02 scpc(samsung collegiate programming cup)\p12. two-dimensional array handling\samsung_p12\p12.cpp(126): warning C4101: 'e': unreferenced local variable
-  samsung_p12.vcxproj -> C:\Users\kkyeo\Desktop\Coding\algorithms-research\02 SCPC(Samsung Collegiate Programming Cup)\p12. two-dimensional Array handling\Debug\samsung_p12.exe
-  samsung_p12.vcxproj -> C:\Users\kkyeo\Desktop\Coding\algorithms-research\02 SCPC(Samsung Collegiate Programming Cup)\p12. two-dimensional Array handling\Debug\samsung_p12.pdb (Partial PDB)
